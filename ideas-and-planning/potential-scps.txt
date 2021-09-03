@@ -3,6 +3,8 @@ SCP-682: The Hard To Destroy Reptile
 SCP-448: Jack-in-the-Box
 SCP-1111: The White Dog
 SCP-1294: The Laughing Fox
+SCP-914: The Clockworks
+SCP-1471: MalO ver1.0.0
 
 
 SCP-1296: Dial-a-Llama
